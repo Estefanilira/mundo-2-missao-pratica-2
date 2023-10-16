@@ -34,6 +34,15 @@ para lidar com contextos reais de aplicação das tecnologias abordadas.
 
 ##
 
+![Medium-Screen-1024x800](https://github.com/Estefanilira/mundo-2-missao-pratica-2/assets/126111557/53d29cad-c5ef-4c33-87bc-d9b942b6b3fa)
+
+![ordenação-de-valores](https://github.com/Estefanilira/mundo-2-missao-pratica-2/assets/126111557/bf245a65-e565-482b-a871-d797c0d80a5d)
+
+![print-receitas](https://github.com/Estefanilira/mundo-2-missao-pratica-2/assets/126111557/9d031d7b-9cb6-418a-b69e-a11dedcc6047)
+
+![usuario-teste](https://github.com/Estefanilira/mundo-2-missao-pratica-2/assets/126111557/f82e3c7d-8d3b-417d-86bf-6eb8f4e32c97)
+
+
 
 
 
