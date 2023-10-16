@@ -17,7 +17,7 @@ Missão Prática | Mundo 2 | Nível 2
 
 Html + Css + JavaScript + Vue JS
 
-site: 
+site: https://mundo-2-missao-pratica-2-chi.vercel.app/
 
 ## Objetivos da prática
 
